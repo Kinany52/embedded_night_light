@@ -7,6 +7,8 @@ This repository contains three variants of an embedded night light project, buil
 2. **Night Light Potentiometer**: Adjusts LED brightness using a potentiometer.
 3. **Night Light IR Remote Controller**: Combines IR remote functionality for brightness and power control.
 
+There is also a **Circuit Illustration** (circuit_illustration_image dir) that contains a diagram showing a simulated hardware setup for the project, for any of the variants above.
+
 ## Hardware Requirements
 - Arduino Uno (ATmega328P)
 - LEDs (x6)
@@ -14,7 +16,8 @@ This repository contains three variants of an embedded night light project, buil
 - IR Receiver & IR Remote Controller
 - Jumper Wires and Breadboard
 
-About the Microcontroller
+## About the Microcontroller
+
 The Arduino Uno uses the ATmega328P, an 8-bit AVR microcontroller with:
 
 16 MHz Clock Speed
