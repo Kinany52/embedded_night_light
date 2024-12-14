@@ -122,5 +122,5 @@ This variant combines the IR receiver with LED control. The remote allows toggli
 
 ---
 
-### **Folder: Circuit Illustration Image**
+### **Circuit Illustration Image**
 Contains a TinkerCAD screenshot illustrating the complete circuit setup for the project.
